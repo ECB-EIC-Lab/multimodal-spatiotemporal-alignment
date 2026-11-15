@@ -1,0 +1,7 @@
+﻿comparison,samples,median_offset_us,mean_offset_us,std_offset_us,min_offset_us,max_offset_us,note
+J2-J1,2001,0.0,258.36543283839035,592.0142483842606,0.0,3293.752670288086,SDK sequence-aligned offset; NOT hardware sampling delay
+J3-J1,2001,0.0,510.0148728583706,751.9764123362567,0.0,3293.752670288086,SDK sequence-aligned offset; NOT hardware sampling delay
+J4-J1,2001,0.0,752.9614985674277,818.9140773100222,0.0,3307.1041107177734,SDK sequence-aligned offset; NOT hardware sampling delay
+J5-J1,2001,1601.9344329833984,1006.5131637824886,813.1251831758462,0.0,3307.1041107177734,SDK sequence-aligned offset; NOT hardware sampling delay
+J6-J1,2001,1622.4384307861328,1242.7827586298404,756.376591697165,0.0,3465.1756286621094,SDK sequence-aligned offset; NOT hardware sampling delay
+J7-J1,2001,1634.836196899414,1495.6816025580958,626.6764377929826,0.0,5033.254623413086,SDK sequence-aligned offset; NOT hardware sampling delay

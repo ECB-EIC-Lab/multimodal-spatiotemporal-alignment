@@ -1,0 +1,7 @@
+﻿
+Status Class  FriendlyName                                   InstanceId                                  
+------ -----  ------------                                   ----------                                  
+OK     Camera Intel(R) RealSense(TM) Depth Camera 435i RGB   USB\VID_8086&PID_0B3A&MI_03\6&8A0F8F8&0&0003
+OK     Camera Intel(R) RealSense(TM) Depth Camera 435i Depth USB\VID_8086&PID_0B3A&MI_00\6&8A0F8F8&0&0000
+
+

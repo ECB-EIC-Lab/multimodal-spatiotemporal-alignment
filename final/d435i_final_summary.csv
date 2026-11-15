@@ -1,0 +1,5 @@
+﻿stream,samples,device_timestamp_source,device_timestamp_samples,device_duration_s,median_frequency_hz,average_frequency_hz,median_period_us,mean_period_us,std_period_us,p95_jitter_us,p99_jitter_us,min_period_us,max_period_us,host_median_period_ms,frame_number_gaps,nonpositive_dt_count,sensor_timestamp_count,frame_timestamp_count,timestamp_domain
+Depth,3600,SENSOR_TIMESTAMP,3600,120.062665,29.976019184652277,29.976012942907772,33360.0,33360.00694637399,0.4166666505826293,0.0,0.0,33360.0,33385.0,33.3561,0,0,3600,3600,timestamp_domain.global_time
+RGB,3600,SENSOR_TIMESTAMP,3600,120.06264,29.976019184652277,29.976019184652277,33360.0,33360.0,0.0,0.0,0.0,33360.0,33360.0,33.3556,0,0,3600,3600,timestamp_domain.global_time
+Gyro,24009,FRAME_TIMESTAMP,24009,120.103874,199.9200319872051,199.8936354043001,5002.0,5002.660529823393,0.9406168184727887,2.0,2.0,5002.0,5004.0,4.9976,0,0,0,24009,timestamp_domain.global_time
+Accel,24329,FRAME_TIMESTAMP,24329,120.10688,202.5111381125962,202.55292619373677,4938.0,4936.9812561657345,2.347480517873946,6.0,8.0,4928.0,4942.0,4.9769,0,0,0,24329,timestamp_domain.global_time

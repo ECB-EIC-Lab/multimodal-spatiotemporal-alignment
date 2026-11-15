@@ -1,0 +1,89 @@
+﻿
+主机名:             LAPTOP-3DBMJE01
+OS 名称:            Microsoft Windows 11 专业版
+OS 版本:            10.0.26200 暂缺 Build 26200
+OS 制造商:          Microsoft Corporation
+OS 配置:            独立工作站
+OS 构建类型:        Multiprocessor Free
+注册的所有人:       8613663598551
+注册的组织:         暂缺
+产品 ID:            00331-20353-41765-AA344
+初始安装日期:       2025/3/9, 10:49:06
+系统启动时间:       2026/9/16, 9:11:47
+系统制造商:         LENOVO
+系统型号:           82JK
+系统类型:           x64-based PC
+处理器:             安装了 1 个处理器。
+                    [01]: Intel64 Family 6 Model 141 Stepping 1 GenuineIntel ~2688 Mhz
+BIOS 版本:          LENOVO H1CN33WW, 2021/7/18
+Windows 目录:       C:\WINDOWS
+系统目录:           C:\WINDOWS\system32
+启动设备:           \Device\HarddiskVolume1
+系统区域设置:       zh-cn;中文(中国)
+输入法区域设置:     zh-cn;中文(中国)
+时区:               (UTC+08:00) 北京，重庆，香港特别行政区，乌鲁木齐
+物理内存总量:       16,235 MB
+可用的物理内存:     10,222 MB
+虚拟内存: 最大值:   20,843 MB
+虚拟内存: 可用:     9,078 MB
+虚拟内存: 使用中:   11,765 MB
+页面文件位置:       E:\pagefile.sys
+域:                 WORKGROUP
+登录服务器:         \\LAPTOP-3DBMJE01
+修补程序:           安装了 4 个修补程序。
+                    [01]: KB5126052
+                    [02]: KB5054156
+                    [03]: KB5129195
+                    [04]: KB5124007
+网卡:               安装了 7 个 NIC。
+                    [01]: QMTAP Adapter V9
+                        连接名: 本地连接
+                        状态:        媒体连接已中断
+                    [02]: Intel(R) Wi-Fi 6 AX201 160MHz
+                        连接名: WLAN
+                        启用 DHCP:   是
+                        DHCP 服务器: 172.27.0.1
+                        IP 地址
+                          [01]: 172.27.118.212
+                    [03]: Realtek PCIe GbE Family Controller
+                        连接名: 以太网
+                        状态:        媒体连接已中断
+                    [04]: Bluetooth Device (Personal Area Network)
+                        连接名: 蓝牙网络连接
+                        状态:        媒体连接已中断
+                    [05]: Siemens PLCSIM Virtual Ethernet Adapter
+                        连接名: 以太网 2
+                        启用 DHCP:   是
+                        DHCP 服务器: 255.255.255.255
+                        IP 地址
+                          [01]: 169.254.216.222
+                    [06]: VMware Virtual Ethernet Adapter for VMnet1
+                        连接名: VMware Network Adapter VMnet1
+                        启用 DHCP:   是
+                        DHCP 服务器: 192.168.96.254
+                        IP 地址
+                          [01]: 192.168.96.1
+                          [02]: fe80::a916:55a8:692e:53bd
+                    [07]: VMware Virtual Ethernet Adapter for VMnet10
+                        连接名: VMware Network Adapter VMnet10
+                        启用 DHCP:   否
+                        IP 地址
+                          [01]: 192.168.223.1
+                          [02]: fe80::7736:9bbc:7e41:9114
+基于虚拟化的安全性: 状态： 正在运行
+                    所需的安全属性:
+                    可用的安全属性:
+                          基本的虚拟化支持
+                          安全启动
+                          DMA 保护
+                          UEFI 代码只读
+                          SMM Security Mitigations 1.0
+                          基于模式的执行控制
+                          APIC 虚拟化
+                    Services Configured:
+                    Services Running:
+                    App Control for Business policy: 强制
+                    App Control for Business user mode policy: 关
+                    已启用安全功能:
+Hyper-V 要求:       已检测到虚拟机监控程序。将不显示 Hyper-V 所需的功能。
+Python 3.11.9
