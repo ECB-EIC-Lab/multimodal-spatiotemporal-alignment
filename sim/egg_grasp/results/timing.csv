@@ -1,0 +1,4 @@
+method,n,mean_bias_ms,abs_p95_ms
+host_arrival,120,14.576198,26.5186475
+shared_edge,120,0.0205819799,0.24410309
+edge_lags_sample_6ms,120,6.02058198,6.23754687

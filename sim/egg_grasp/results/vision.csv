@@ -1,0 +1,4 @@
+estimator,n,valid,mae_fraction,abs_error_p95_fraction
+pixel_ratio,2400,2400,0.0441105027,0.0961496998
+scale_pose,2400,2400,0.0141130101,0.0346019753
+scale_pose_with_gaps,2400,2120,0.0140998928,0.0347479193
